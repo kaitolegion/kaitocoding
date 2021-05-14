@@ -1,4 +1,4 @@
 <?php
-echo "hello, kaito legion";
+echo "hello, kaito legiosjsjsn";
 phpinfo();
 ?>
